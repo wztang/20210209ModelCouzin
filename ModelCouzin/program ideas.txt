@@ -1,0 +1,30 @@
+Agent：
+	个体运动基础：
+        Name:
+        Position dimension：
+        Direction dimension:
+        Velocity:
+    个体感知范围属性：
+        perception_radius_repulsion:
+        perception_radius_align:
+        perception_radius_attract:
+        perception_angle:
+    相互作用属性：
+        neighbor_repulsion:
+        neighbor_align:
+        neighbor_attract:
+
+Swarm:
+    群体基础属性：
+        Number:
+        Agent list:
+    群体描述属性：
+        State position dimension:
+        State direction dimension:
+        State velocity:
+    群体中个体相互关联属性：
+        Matrix distance:
+World:
+    世界基础属性：
+        Dimension:
+        Radius:
